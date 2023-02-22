@@ -5,8 +5,10 @@ Leverages the following API service https://instant.webex.com/
 
 and the ability to create meeting links https://developer.webex.com/docs/instant-connect-meeting-links
 
-NOTE - very basic and rough example. Your millage may vary.
-
+NOTE 
+- very basic and rough example. Your millage may vary.
+- has not been fully tested against functional or code best practice requirements.
+- NOT for Production use
 
 ![Screenshot 2023-02-22 at 10 53 18 am](https://user-images.githubusercontent.com/4830623/220486527-f5d9c1f4-3853-4bc4-b012-d6269628bd9d.png)
 
