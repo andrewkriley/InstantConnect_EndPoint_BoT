@@ -22,14 +22,22 @@ To run
 2) Edit Dockerfile ENV variables
 
 ENV TEAMS_BOT_URL=your_web_hook_destination_url_here
+
 ENV TEAMS_BOT_TOKEN=your_webex_bot_token_here
+
 ENV TEAMS_BOT_EMAIL=your_webex bot_email_address_here
+
 ENV TEAMS_BOT_APP_NAME=your_webex_bot_app_name_here
 
+
 ENV AUTHTOKEN=your_auth_token_for_webex_instant_connect
+
 ENV ENDPOINTURI1=your_endpoint_sip_address
+
 ENV ENDPOINTURI2=your_endpoint_sip_address
+
 ENV ENDPOINTURI3=your_endpoint_sip_address
+
 ENV ENDPOINTURI4=your_endpoint_sip_address
 
 3) Run app.sh (./app.sh , don't forget to check execute permissions)
